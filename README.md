@@ -5,7 +5,8 @@ This phase focus on basic security revolving around CIA triad, including SQL inj
 The project is a **HTML/CSS** website powered by **Node.js** for functionality.
 
 To run the project write the following command:
-'npm install express express-rate-limit express-session speakeasy qrcode'
+
+'''npm install express express-rate-limit express-session speakeasy qrcode'''
 
 For a deeper look into the project, check the [Documentation file](https://github.com/Baraa-Othman/Secure-Login-Part-1-SWE314-project-phase-1-/blob/main/Documentation/SecureLoginTeamDoc.pdf)
 
