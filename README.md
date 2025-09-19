@@ -14,10 +14,10 @@ ___
 done by group members
 1. Rayan Alotaibi
 2. Naif Alabdulkarim
-3. Khaled Elfoula
+3. [Khaled Elfoula](https://github.com/Khaled-Elfoula)
 4. Mansour Abahussien
 5. Ahmed Ababtain
-6. Albara Osman
+6. [Albara Osman](https://github.com/Baraa-Othman)
 
 Supervised by: [Dr. Abdulaziz Alaboudi](https://github.com/Alaboudi1)
 
