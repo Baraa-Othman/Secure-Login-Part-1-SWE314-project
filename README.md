@@ -4,12 +4,13 @@ This is a team based project in Software Security Engineering course (SWE314) in
 This phase focus on basic security revolving around CIA triad, including SQL injection, shoulder surfing, Cross Site Scripting (XSS), Distributed Denial of Service (DDoS), Brute Force, and even countering potential database exposure.
 The project is a **HTML/CSS** website powered by **Node.js** for functionality.
 
+___
+
 To run the project write the following command:
-
-'''npm install express express-rate-limit express-session speakeasy qrcode'''
-
+`npm install express express-rate-limit express-session speakeasy qrcod`
+***
 For a deeper look into the project, check the [Documentation file](https://github.com/Baraa-Othman/Secure-Login-Part-1-SWE314-project-phase-1-/blob/main/Documentation/SecureLoginTeamDoc.pdf)
-
+___
 done by group members
 1. Rayan Alotaibi
 2. Naif Alabdulkarim
