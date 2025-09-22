@@ -9,7 +9,7 @@ ___
 To run the project write the following command:
 `npm install express express-rate-limit express-session speakeasy qrcod`
 ***
-For a deeper look into the project, check the [Documentation file](https://github.com/Baraa-Othman/Secure-Login-Part-1-SWE314-project-phase-1-/blob/main/Documentation/SecureLoginTeamDoc.pdf)
+For a deeper look into the project, check the [Documentation file](https://github.com/Baraa-Othman/Secure-Login-Part-1-SWE314-project/blob/main/Documentation/SecureLoginTeamDoc.pdf)
 ___
 done by group members
 1. Rayan Alotaibi
